@@ -211,7 +211,7 @@
             <a href="{{route ('admin.dashboard')}}" class="nav-link active">
               <i class="nav-icon fas fa-shopping-bag"></i>
               <p>
-                Products
+                Doctors
                 <i class="right fas fa-angle-left"></i>
               </p>
             </a>
@@ -219,13 +219,13 @@
               <li class="nav-item">
                 <a href="{{route ('create.products')}}" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Create Products</p>
+                  <p>Create Doctor</p>
                 </a>
               </li>
               <li class="nav-item">
                 <a href="{{route ('all.products')}}" class="nav-link active">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>All Products</p>
+                  <p>All Doctors</p>
                 </a>
               </li>
               <li class="nav-item">
@@ -240,7 +240,7 @@
             <a href="#" class="nav-link active">
               <i class="nav-icon fas fa-handshake"></i>
               <p>
-                Orders
+                Appointments
                 <i class="fas fa-angle-left right"></i>
                 <span class="badge badge-info right">6</span>
               </p>
@@ -249,25 +249,25 @@
               <li class="nav-item">
                 <a href="{{route ('new.orders')}}" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>New Orders</p>
+                  <p>New Appointments</p>
                 </a>
               </li>
               <li class="nav-item">
                 <a href="{{route ('completed.orders')}}" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Completed Orders</p>
+                  <p>Completed Appointments</p>
                 </a>
               </li>
               <li class="nav-item">
                 <a href="#" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Canceled Orders</p>
+                  <p>Canceled Appointments</p>
                 </a>
               </li>
               <li class="nav-item">
                 <a href="{{route ('processing.orders')}}" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Processing Orders</p>
+                  <p>Processing Appointments</p>
                 </a>
               </li>
           </ul>
@@ -276,7 +276,7 @@
             <a href="{{route ('admin.dashboard')}}" class="nav-link active">
               <i class="nav-icon fas fa-shopping-bag"></i>
               <p>
-                Customers
+                Paitions
                 <i class="right fas fa-angle-left"></i>
               </p>
             </a>
@@ -284,7 +284,7 @@
               <li class="nav-item">
                 <a href="{{route ('all.customers')}}" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>All Customers</p>
+                  <p>All Paitions</p>
                 </a>
               </li>
               </ul>

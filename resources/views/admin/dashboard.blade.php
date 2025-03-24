@@ -10,7 +10,7 @@
               <div class="inner">
                 <h3>{{ $users->count() }}</h3>
 
-                <p>Users </p>
+                <p>Appointments </p>
               </div>
               <div class="icon">
                 <i class="fas fa-users"></i>
@@ -24,7 +24,7 @@
               <div class="inner">
                 <h3>{{ $products->count(); }}</h3>
 
-                <p>Products</p>
+                <p>Doctors</p>
               </div>
               <div class="icon">
                 <i class="fas fa-list"></i>
@@ -38,7 +38,7 @@
               <div class="inner">
                 <h3>{{ $categories->count() }}</h3>
 
-                <p>Categories</p>
+                <p>Paitions</p>
               </div>
               <div class="icon">
                 <i class="fas fa-question-circle"></i>
