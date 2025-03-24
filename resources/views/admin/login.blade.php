@@ -18,7 +18,7 @@
 <div class="login-box">
 @include('flash')
   <div class="login-logo">
-    <a href="#"><b>Zeeshan</b>Store</a>
+    <a href="#"><b>Zeeshan</b>Hospital </a>
   </div>
   <!-- /.login-logo -->
   <div class="card">
